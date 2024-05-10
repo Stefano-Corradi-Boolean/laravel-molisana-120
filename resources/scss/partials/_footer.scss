@@ -1,0 +1,21 @@
+footer{
+  padding: 40px 0;
+  .container{
+    .logo{
+      width: 40%;
+    }
+    display: flex;
+    .menues{
+      width: 60%;
+      display: flex;
+      justify-content: space-between;
+      ul{
+        list-style: none;
+        a{
+          color: $link-color;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}

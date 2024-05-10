@@ -1,0 +1,20 @@
+
+@mixin container{
+  max-width: $container-width;
+  margin: 0 auto;
+  width: 98%;
+}
+
+// centra gli elemnti in flex in base al tipo di centratura che può essere
+// both | horizonta | vertical
+@mixin centerFlex($type: 'both' ){  // di defaul è both
+  display: flex;
+  @if $type == 'vertical'{
+    align-items: center;
+  } @else if $type == 'horizontal'{
+    justify-content: center;
+  }@else if $type == 'both'{
+    align-items: center;
+    justify-content: center;
+  }
+}

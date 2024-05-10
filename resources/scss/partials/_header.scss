@@ -1,0 +1,25 @@
+header{
+  text-align: center;
+  padding-bottom: 30px;
+  img{
+    margin-bottom: 50px;
+  }
+  ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    li{
+      a{
+        display: inline-block;
+        color: black;
+        font-weight: bold;
+        text-transform: capitalize;
+        text-decoration: none;
+        padding: 15px 20px;
+        &:hover, &.active{
+          background-color: lighten($primary-color, 65%);
+        }
+      }
+    }
+  }
+}

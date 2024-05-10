@@ -1,0 +1,12 @@
+@extends('layout.main')
+
+@section('content')
+<h2>Titolo</h2>
+
+<div class="container">
+  <h1>Home</h1>
+  <p>
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aperiam ea sit amet nostrum beatae enim similique sapiente! In inventore quae ducimus minima, maiores non expedita saepe voluptatibus magni reprehenderit repellendus dolores perspiciatis similique voluptates consequatur quaerat, quisquam aliquid soluta magnam cupiditate ipsam exercitationem! Incidunt, perspiciatis, nostrum adipisci iure, sunt officiis architecto aut dignissimos id error blanditiis est dolores cum libero qui dolorem veniam? Accusamus omnis iste laboriosam commodi autem exercitationem eius facilis impedit unde at beatae quia, praesentium fugiat temporibus officia cumque necessitatibus minus sint quasi, maiores ratione. Ratione delectus libero maxime, quos mollitia dolores maiores facilis necessitatibus excepturi consequatur corporis veniam odio vitae amet officia quam eveniet numquam ea modi nostrum cum ipsa? Nobis molestias natus iusto unde voluptas voluptate atque temporibus explicabo provident officia quo quaerat sint rerum ut distinctio magnam, repellendus minima dolores deserunt, veniam adipisci dolore libero, doloremque quidem. Voluptatibus asperiores odit maiores doloremque quae quaerat animi facilis. Error mollitia dolorum totam nam molestias quasi? Tempora veniam quam consequuntur error consectetur asperiores ea animi quae quo, hic libero sint consequatur deleniti placeat, ipsam cumque earum vero maiores omnis, qui tenetur aliquid provident? Commodi voluptates voluptatibus ipsam iure? Nemo unde alias voluptatum nesciunt perspiciatis aut nisi iure eum porro, assumenda sapiente cumque quibusdam ipsa eos dolorum a vel? Praesentium pariatur fuga alias voluptas aperiam possimus cumque libero, ratione eligendi sequi nostrum maiores, provident velit et earum delectus ex doloremque ut, facere eveniet quasi minus consequuntur nesciunt. Suscipit, rem facere? Consequatur harum, magni iusto inventore natus autem consequuntur, nobis qui facilis suscipit enim cum earum! Porro vel magni maiores? Nisi doloremque minima, veritatis modi temporibus sunt tempora? Deserunt magni rem doloribus quod, earum soluta aliquid iusto voluptatibus esse aliquam vero quaerat, quidem ad ut assumenda. Aperiam, praesentium iusto mollitia commodi natus autem vitae non totam. Aliquam, quam atque.
+  </p>
+</div>
+@endsection
